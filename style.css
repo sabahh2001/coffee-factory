@@ -1,0 +1,53 @@
+body {
+    /* font-family: 'Noto Serif Balinese', serif; */
+    /* font-family: 'EB Garamond', serif; */
+    font-family: 'Marcellus', serif;
+    background-image: linear-gradient(to right, rgb(77, 31, 10), rgb(129, 91, 68));
+}
+
+.coffee-factory-navbar {
+    height: 710px;
+
+
+}
+
+.coffee-factory-navbar a:hover {
+    border-bottom: 1px solid white;
+}
+
+.coffee-factory-title {
+    height: 450px;
+}
+
+.coffee-factory {
+    font-size: 75px;
+
+}
+
+.coffee-factory-button {
+    height: 250px;
+
+}
+
+.coffee-factory-info {
+    height: 320px;
+}
+
+.coffee-factory-logo {
+    height: 630px;
+    width: 250px;
+
+}
+
+.tea-menu {
+    background-image: linear-gradient(to right, rgb(129, 61, 34), rgb(129, 91, 68));
+}
+
+.macha-menu {
+    background-image: linear-gradient(to right, rgb(34, 129, 125), rgb(129, 91, 68));
+}
+
+.shake-menu {
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(63, 62, 62));
+
+}
